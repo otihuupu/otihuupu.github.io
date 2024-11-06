@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://otihuupu.github.io/AMH/sitemap_index.txt
+Sitemap: https://otihuupu.github.io/Ekv/sitemap_index.txt
+Sitemap: https://otihuupu.github.io/Llm/sitemap_index.txt
+Sitemap: https://otihuupu.github.io/tka/sitemap_index.txt
